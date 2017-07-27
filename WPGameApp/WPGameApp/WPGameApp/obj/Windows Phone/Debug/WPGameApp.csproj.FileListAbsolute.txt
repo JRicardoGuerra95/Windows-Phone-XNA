@@ -1,0 +1,53 @@
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Skeleton.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Skeleton1.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Skeleton2.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Skeleton3.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\ZombieIzq.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\ZombieDer.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Background.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Dead.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\SkeletonXX.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\SkeletonYY.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\ZombiesXX.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\ZombieUnborn.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\WPGameApp.dll
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\WPGameApp.pdb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WPGameApp.dll
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WPGameApp.pdb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\WPGameApp.xap
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\MsgFont.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Linea.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Corazon.xnb
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WPGameApp.csprojResolveAssemblyReference.cache
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Skeleton.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Skeleton1.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Skeleton2.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Skeleton3.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\ZombieIzq.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\ZombieDer.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Background.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Dead.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\SkeletonXX.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\SkeletonYY.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\ZombieUnborn.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Linea.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\Corazon.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\ZombiesXX.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\Content\MsgFont.xnb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\WPGameApp.dll
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\WPGameApp.pdb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WPGameApp.csprojResolveAssemblyReference.cache
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WPGameApp.dll
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WPGameApp.pdb
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\bin\Windows Phone\Debug\WPGameApp.xap
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameApp\obj\Windows Phone\Debug\XapCacheFile.xml

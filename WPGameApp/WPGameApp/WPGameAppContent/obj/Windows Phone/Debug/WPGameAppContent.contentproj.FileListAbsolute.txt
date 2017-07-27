@@ -1,0 +1,2 @@
+C:\Users\José Ricardo\Desktop\WPGameApp\WPGameApp\WPGameAppContent\obj\Windows Phone\Debug\WPGameAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\José Ricardo\Estudios\CETI\Desarrollo Dispositivos Móviles\Windows Phone\Proyecto\WPGameApp\WPGameApp\WPGameAppContent\obj\Windows Phone\Debug\WPGameAppContent.contentprojResolveAssemblyReference.cache
